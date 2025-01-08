@@ -34,9 +34,9 @@ This tutorial walks you through setting up a virtual machine in Microsoft Azure,
    - Acknowledge licensing agreement & ensure **Inbound Port Rules** to allow RDP (Remote Desktop Protocol).
    - Click **Review + Create**, then **Create**.
 
-<p>
-<img src="https://i.imgur.com/n2JcKKS.png" height="80%" width="80%" alt="Lab 4"/>
-</p>
+![image](https://github.com/user-attachments/assets/2dc277e6-909b-4d17-ae3b-fee309647c98)
+
+![image](https://github.com/user-attachments/assets/2379a5c4-48ff-4285-a7f6-97522cf6532b)
 
 4. **Log into the Virtual Machine**
    - After the VM is created, navigate to it in the Azure Portal.
@@ -46,9 +46,7 @@ This tutorial walks you through setting up a virtual machine in Microsoft Azure,
      - **Username and Password**: Use the credentials you created earlier.
    - Once connected, open a web browser on the VM.
 
-<p>
-<img src="https://i.imgur.com/9Xw84vn.png" height="80%" width="80%" alt="Lab 4"/>
-</p>
+![image](https://github.com/user-attachments/assets/424f1f43-73cb-410a-9d58-c19880a82b44)
 
 5. **Check the VM's Public IP Address**
    - In the VM, browse to [WhatIsMyIPAddress](https://whatismyipaddress.com/).
@@ -74,9 +72,7 @@ This tutorial walks you through setting up a virtual machine in Microsoft Azure,
    - In the ProtonVPN client, choose a VPN server in a area different from your actual computer's location (Proton VPN requires payment to change countries).
    - Connect to the VPN server.
 
-<p>
-<img src="https://i.imgur.com/1zGrnNV.png" height="80%" width="80%" alt="Lab 4"/>
-</p>
+![image](https://github.com/user-attachments/assets/8e65d4af-33c7-499c-a5ec-8b6712993e94)
 
 5. **Check the VPN's Public IP Address**
    - In the VM, browse to [WhatIsMyIPAddress](https://whatismyipaddress.com/).
@@ -90,12 +86,16 @@ This tutorial walks you through setting up a virtual machine in Microsoft Azure,
 - Compare the behavior of websites and the changes in IP addresses to understand the effects of geographic location and VPN usage.
 - From this lab, here are my documented IP addresses & their changes:
 
-<p>
-<img src="https://i.imgur.com/WuUhDpF.png" height="80%" width="80%" alt="Lab 4"/>
-</p>
+Personal Computer
 
-<p>
-<img src="https://i.imgur.com/cwnCfOU.png" height="80%" width="80%" alt="Lab 4"/>
-</p>
+![image](https://github.com/user-attachments/assets/8d0762e5-7338-4e66-a909-3b5f439a4d41)
+
+VM - **Non-VPN**
+
+![image](https://github.com/user-attachments/assets/611b3452-c59e-4d97-94e8-6ef5a2b562c4)
+
+VM - **VPN** 
+
+![image](https://github.com/user-attachments/assets/3ffb46ca-c96a-4e75-9bb1-90e98fa5d476)
 
 ---
